@@ -1,4 +1,3 @@
-cd ~ && cat > checker9.py << 'ENDOFSCRIPT'
 import asyncio
 import aiohttp
 import aiofiles
@@ -638,4 +637,3 @@ def menu():
 
 if __name__=="__main__":
     menu()
-ENDOFSCRIPT
